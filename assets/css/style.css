@@ -52,9 +52,6 @@ header li {
 /********* 
 Nav Styles
 **********/
-nav {
-    float: right;
-}
 nav ul {
     margin: 0px;
     padding: 29px 10px 29px 10px;
@@ -78,6 +75,9 @@ nav li a:hover {
 nav li a.active {
     color: #47bedb;
 }
+.bg-light {
+    background-color: #fff !important;
+  }
 
 /**********
 Section Styles 
